@@ -7,6 +7,9 @@ cd your-repo-name
 ## Step 2: Install Dependencies
 npm install
 
+## step 3: compile Typescript code run command
+tsc
+
 ## step 3: Start the Application
 npm run dev
 
