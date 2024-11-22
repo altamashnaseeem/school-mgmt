@@ -11,12 +11,11 @@ npm install
 npm run dev
 
 # API Endpoints
-MEHTOD             ENDPOINT                        Description               Authentication required
 
 ## for signup and login--
 
-POST	         /api/user/login	                  Login a user        	             No
-POST	        /api/user/register	              Register a new user	                 No
+`POST/api/user/login	                  Login a user        	             No`
+POST&nbsp;&nbsp;&nbsp;	        /api/user/register	              Register a new user	                 No
 
 ## For class--
 
